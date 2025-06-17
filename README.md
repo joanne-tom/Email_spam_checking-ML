@@ -7,9 +7,13 @@ This project focuses on classifying emails as **spam** or **ham** using Naive Ba
 ## 🗂️ Project Structure
 
 ├── combined_data.csv # Email Spam Collection Dataset
+
 ├── spam_countvect.py # Script using CountVectorizer
+
 ├── spam_tfidf.py # Script using TF-IDF
+
 ├── requirements.txt # Python dependencies
+
 └── README.md # Project documentation
 
 ---
