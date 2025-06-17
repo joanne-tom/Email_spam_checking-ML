@@ -29,3 +29,6 @@ Install dependencies with:
 
 ```bash
 pip install -r requirements.txt
+
+📂 [Download the dataset](https://drive.google.com/file/d/1ILtnQuBFmUBKunN66aU05IkpDRHDN27s/view?usp=drive_link)  
+Due to file size limits, the dataset is stored externally. Download and place it in the project directory as `combined_data.csv`.
